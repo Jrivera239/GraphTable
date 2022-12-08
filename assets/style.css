@@ -27,8 +27,7 @@ color: white;
     row-gap: 10px;
     grid-template-columns:20px;
     padding: 10px;
-    border: 5px;
-    border-color: red;
+    border:solid  2px;
     text-align: center;
 }
 .navbar{
@@ -51,10 +50,14 @@ color: white;
 .names{
     color: white;
     background:radial-gradient(rgb(140, 166, 245),royalblue) ;
-    border: 2px;
+    border:solid  2px;
     align-items: center;
     font-size: x-large;
    padding:5px;
    font-weight: 700;
   text-align:center ;
+}
+
+.borderr{
+    border:solid  2px;
 }
